@@ -3,7 +3,6 @@ FROM debian:13.7-slim
 
 LABEL org.opencontainers.image.authors="darfig"
 
-
 #Ne pas poser de question à l'installation
 ENV DEBIAN_FRONTEND noninteractive
 
