@@ -1,5 +1,5 @@
 #On choisit une debian
-FROM debian:13.7-slim
+FROM debian:12.15
 
 LABEL org.opencontainers.image.authors="darfig"
 
