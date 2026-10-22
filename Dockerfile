@@ -1,7 +1,7 @@
 #On choisit une debian
 FROM debian:13.7-slim
 
-LABEL org.opencontainers.image.authors="github@diouxx.be"
+LABEL org.opencontainers.image.authors="darfig"
 
 
 #Ne pas poser de question à l'installation
